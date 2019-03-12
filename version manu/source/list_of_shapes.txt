@@ -1,0 +1,57 @@
+carre;rouge;50;50;start everything
+losange;noir;200;50;running process
+fleche;190;74;1
+trais;150;74;40;2
+cercle;vert;350;50;other
+trais;300;74;40;2
+fleche;340;74;1
+rectangle;bleu;500;50;other again
+trais;450;74;40;2
+fleche;490;74;1
+trais;550;100;2;60
+fleche;550;160;2
+losange;noir;500;190;running process
+K;467;210;oui
+K;555;290;non
+K;50;50;coucou
+trais;463;214;40;2
+cercle;vert;350;190;other
+carre;rouge;200;190;other
+trais;310;214;40;2
+rectangle;bleu;50;190;start everything2
+trais;160;214;40;2
+fleche;100;300;2
+losange;noir;50;330;if francais
+K;150;360;oui
+K;67;430;non
+trais;150;354;340;2
+fleche;490;354;1
+trais;100;404;2;90
+trais;100;494;60;2
+rectangle;bleu;500;330;other
+trais;550;240;2;60
+trais;100;240;2;60
+fleche;300;240;3
+fleche;150;240;3
+fleche;550;300;2
+fleche;450;240;3
+trais;600;354;140;2
+trais;740;354;2;60
+trais;740;414;80;2
+trais;820;414;2;150
+carre;vert;200;470;solution trouvé
+trais;150;494;40;2
+fleche;190;494;1
+cercle;vert;350;470;sos
+trais;300;494;40;2
+fleche;340;494;1
+carre;bleu;500;470;operation + finish
+trais;450;494;40;2
+fleche;490;494;1
+rectangle;bleu;650;470;test en cours
+trais;600;494;40;2
+fleche;640;494;1
+trais;750;495;70;2
+fleche;820;564;2
+rectangle;rouge;770;570;fin
+stop

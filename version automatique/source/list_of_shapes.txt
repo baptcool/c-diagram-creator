@@ -1,0 +1,15 @@
+carre;rouge;debut programme
+rectangle;vert;lancement en cours
+cercle;vert;welcome
+rectangle;vert;fin
+losange;vert;welcome
+|
+rectangle;bleu;fin
+&
+carre;rouge;reprise
+$
+rectangle;bleu;arret prog
+stop
+
+
+
